@@ -6,7 +6,7 @@
 
 ---
 - :writing_hand: I'm a student in Revou's Full Stack Software Engineering Program. 
-- :woman_technologist: Currently, I work at a digital agency in Jakarta.
+- :woman_technologist: Currently, I work at a Sportware E-commerce in Jakarta.
 - :speech_balloon: Brainstorm with me over tech, cat, digital marketing and movie.
 
 
