@@ -6,6 +6,7 @@
 - :speech_balloon: Brainstorm with me over tech, cat, digital marketing and movie.
 
 ## 🌐 Socials:
+[![gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:mesel.ghea.h.n@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/earthcell09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mesel-ghea) 
 
