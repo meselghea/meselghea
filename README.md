@@ -1,8 +1,8 @@
 
 ## <p align="center"> :paw_prints: Hi, I'm Mesel, Great to E-meet You! :paw_prints: </p>
 ----------
-- :writing_hand: I'm a student in Revou's Full Stack Software Engineering Program. 
-- :woman_technologist: Currently, I work at a Sportware E-commerce in Jakarta.
+- :writing_hand: I spent six months at Revou learning full-stack software engineering
+- :woman_technologist: I currently work as a performance marketing specialist at Happyfit Indonesia
 - :speech_balloon: Brainstorm with me over tech, cat, digital marketing and movie.
 
 ## 🌐 Socials:
